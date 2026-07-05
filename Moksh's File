@@ -1,0 +1,50 @@
+Buyer side
+
+User posts what they want to buy
+Other buyers join the buying group
+Group reaches a minimum number of buyers
+Sellers can offer their best price
+Buyers choose the best deal
+
+Seller side
+
+Seller sees active buyer groups
+Seller submits price/offer
+Best offer gets highlighted
+Buyers confirm interest or pay deposit
+
+Core MVP pages
+
+Homepage: “Buy together. Negotiate better.”
+Browse active buying groups
+Create a buying request
+Group detail page
+Seller offer dashboard
+Login/signup
+Admin panel
+
+Recommended student-founder tech stack
+
+Frontend: React / Next.js
+Backend: Node.js / Supabase
+Database: PostgreSQL
+Auth: Supabase Auth / Firebase Auth
+Payments later: Razorpay
+Hosting: Vercel
+
+First MVP feature set
+
+Create buying group
+Join buying group
+Show number of interested buyers
+Seller quote submission
+Basic chat/comment system
+Admin approval of requests and sellers
+
+Positioning line for the website:
+
+Buyocracy is where buyers unite, demand better prices, and shift power from sellers to buyers.
+
+A strong homepage headline could be:
+
+Don’t buy alone. Buy with power.
